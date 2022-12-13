@@ -1,0 +1,122 @@
+https://www.youtube.com/watch?v=dkl350qyFgs
+
+iPhone 11 pro
+375*812
+scale factor: 3
+
+Login:
+
+close button 1:37 
+	x 
+	20*20
+	color: ?
+
+	button
+	30*30 
+	margin: 20, nil, nil, 20
+	color: ?
+
+Log in 2:06 
+	SF Pro Display Bold 24
+	top match close button
+	H center
+	TextColor: Black
+
+Email + Rect 3:26 
+	Container rect
+	295*44
+	Margin 12, 40, nil, 40
+	Color: clear
+
+		Email
+		SF Pro Text Regular 16
+		Margin nil, nil, nil, 0
+		H center
+		TextColor: ?
+
+		Line
+		(match parent)*1
+		color: ?
+
+Password + Rect 3:37 
+	Copy email
+	Rect margin 0, nil, nil, nil
+
+Forget password 4:01
+	SF Pro Text Regular 14
+	TextColor: ?
+	Margin 20, 20, nil, nil
+
+LoginButton 5:02
+	SF Pro Text Bold 16
+	H & V Center
+	TextColor: White
+
+	Rect 
+	Container rect
+	295*48
+	Margin 32, 40, nil, 40
+	color: ? blue
+	CornerRadius: 24
+
+
+Or 5:13
+	SF Pro Text Regular 14
+	TextColor: ?
+	Margin 16, nil, nil, nil
+	H center
+
+Stacked buttons * 3
+Continue with Facebook + Rect 6:16
+	Container rect
+	295*44
+	Margin 16, 40, 4, 40
+	Color: clear
+	CornerRadius: 22
+	border withd: 1
+	border color: ?
+
+		Continue with facebook
+		SF Pro Text SemiBold 14
+		H & V center
+		TextColor: ?
+
+		icon
+		24*24
+		margin nil, nil, nil, 12
+
+repeat buttons 6:35
+repeat - Continue with Google
+repeat - COntinue with Apple
+
+Don't have an account + Join button + Rect 7:16
+	Rect
+	Margin 20, nil, nil, nil
+	H center
+		Don't have an account
+		SF Pro Text Regular 14
+		TextColor: ?
+		Margin nil, 4, nil, 0
+
+		Join button
+		SF Pro Text Semibold 14
+		TextColor: ? blue
+		Margin nil, 0, nil, 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
